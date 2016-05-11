@@ -12,10 +12,10 @@
     "incremental": ""
     },
      {
-    "url": "https://raw.githubusercontent.com/Thevuong1408/The-Vuong/master/signed_Samsung%20S7.zip",
+    "url": "https://raw.githubusercontent.com/Thevuong1408/The-Vuong/master/RootAR3S.zip",
     "timestamp": "1462704598",
-    "api_level": "23",
-    "md5sum": "59eac0107dda90f39810a9ff93c75abc",
+    "api_level": "22",
+    "md5sum": "1beae2c97d5cf3f25bb8743c8e0012fa",
     "filename": "Thevuong.zip",
     "channel": "NIGHTLY",
     "changes": "",
